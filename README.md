@@ -16,3 +16,10 @@ SOURCE ecommerce_large_dataset.sql;
 ```
 Then run queries from `queries.sql`.
 
+---
+
+### 👨‍💻 Author  
+**Jayandra Kumar Ch**  
+SQL Developer | Data Analytics Enthusiast  
+GitHub: https://github.com/Jayandrach  
+
