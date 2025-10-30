@@ -1,7 +1,3 @@
-E-Commerce Sales Analytics SQL Project
-[MySQL Badge] [Analytics Badge] [SQL Badge]
-
-
 # E-Commerce Sales Analytics SQL Project
 
 ![Tech](https://img.shields.io/badge/Database-MySQL-blue)
