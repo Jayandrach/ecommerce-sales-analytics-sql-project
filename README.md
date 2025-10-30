@@ -1,7 +1,16 @@
+E-Commerce Sales Analytics SQL Project
+[MySQL Badge] [Analytics Badge] [SQL Badge]
+
 
 # E-Commerce Sales Analytics SQL Project
 
-This project demonstrates end-to-end relational database design and analytical SQL reporting on a realistic E‑Commerce dataset.
+![Tech](https://img.shields.io/badge/Database-MySQL-blue)
+![Project](https://img.shields.io/badge/Project-Data--Analytics-green)
+![Focus](https://img.shields.io/badge/Focus-SQL%20Queries-orange)
+
+This project demonstrates end-to-end relational database design...
+
+
 
 ## Key Features
 - Fully normalized MySQL schema
